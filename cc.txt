@@ -1,0 +1,3 @@
+Cloud computing is basically a virtual network cloud where a user can manage it's applications,softwares etc.
+It has 4 different models namely:private cloud,public cloud,community cloud and hybrid cloud.
+
